@@ -1,0 +1,10 @@
+{
+  "specFlow": {
+    "language": {
+      "feature": "en"
+    },
+    "unitTestProvider": {
+      "name": "MSTest"
+    }
+  }
+}
